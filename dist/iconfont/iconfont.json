@@ -1,0 +1,114 @@
+{
+  "id": "1652595",
+  "name": "yuhu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10678432",
+      "name": "group ctrl",
+      "font_class": "team",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "1555829",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "6050696",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7685077",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "1445581",
+      "name": "water",
+      "font_class": "water",
+      "unicode": "e92b",
+      "unicode_decimal": 59691
+    },
+    {
+      "icon_id": "4579831",
+      "name": "arrow-right",
+      "font_class": "arrowright",
+      "unicode": "e948",
+      "unicode_decimal": 59720
+    },
+    {
+      "icon_id": "400847",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "401192",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e89d",
+      "unicode_decimal": 59549
+    },
+    {
+      "icon_id": "792378",
+      "name": "in",
+      "font_class": "in",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "792402",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "13133192",
+      "name": "investement",
+      "font_class": "investement",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13133193",
+      "name": "contact",
+      "font_class": "contact",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13133194",
+      "name": "about",
+      "font_class": "about",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13133195",
+      "name": "social",
+      "font_class": "social",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13133196",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
